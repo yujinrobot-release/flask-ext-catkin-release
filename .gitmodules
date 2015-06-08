@@ -1,0 +1,36 @@
+[submodule "flask-restful"]
+	path = flask-restful
+	url = https://github.com/flask-restful/flask-restful.git
+[submodule "flask-cors"]
+	path = flask-cors
+	url = https://github.com/corydolphin/flask-cors.git
+[submodule "flask-migrate"]
+	path = flask-migrate
+	url = https://github.com/miguelgrinberg/Flask-Migrate.git
+[submodule "flask-login"]
+	path = flask-login
+	url = https://github.com/maxcountryman/flask-login.git
+[submodule "flask-principal"]
+	path = flask-principal
+	url = https://github.com/mattupstate/flask-principal.git
+[submodule "flask-mail"]
+	path = flask-mail
+	url = https://github.com/mattupstate/flask-mail.git
+[submodule "flask-script"]
+	path = flask-script
+	url = https://github.com/smurfix/flask-script.git
+[submodule "flask-wtf"]
+	path = flask-wtf
+	url = https://github.com/lepture/flask-wtf.git
+[submodule "flask-sqlalchemy"]
+	path = flask-sqlalchemy
+	url = https://github.com/mitsuhiko/flask-sqlalchemy.git
+[submodule "flask-security"]
+	path = flask-security
+	url = https://github.com/asmodehn/flask-security.git
+[submodule "flask-celery-helper"]
+	path = flask-celery-helper
+	url = https://github.com/Robpol86/Flask-Celery-Helper.git
+[submodule "flask-redis-helper"]
+	path = flask-redis-helper
+	url = https://github.com/Robpol86/Flask-Redis-Helper.git
