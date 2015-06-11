@@ -1,0 +1,12 @@
+Source: ros-indigo-flask-ext-catkin
+Section: misc
+Priority: extra
+Maintainer: AlexV <asmodehn@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), alembic, python-catkin-pkg, python-flask, python-itsdangerous, python-passlib, ros-indigo-catkin
+Homepage: https://github.com/asmodehn/flask-ext-catkin
+Standards-Version: 3.9.2
+
+Package: ros-indigo-flask-ext-catkin
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, alembic, python-flask, python-itsdangerous, python-passlib
+Description: Catkinized version of flask extensions python packages
